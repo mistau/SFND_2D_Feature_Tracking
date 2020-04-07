@@ -17,7 +17,7 @@
 #include "matching2D.hpp"
 
 
-//#define ITERATE     // with this you request full iteration which generates the result.txt file used to generate the diagram
+// #define ITERATE     // with this you request full iteration which generates the result.txt file used to generate the diagram
 
 
 // global variables
